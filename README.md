@@ -1,4 +1,4 @@
-# README for Energy and Performance-Aware Task Scheduling Algorithm Implementation
+# Energy and Performance-Aware Task Scheduling Algorithm Implementation (Final Project for EECE 7205)
 
 ## Overview
 This script is an implementation of the task scheduling algorithm described in the paper "Energy and Performance-Aware Task Scheduling in a Mobile Cloud Computing Environment" by Xue Lin, Yanzhi Wang, Qing Xie, and Massoud Pedram from the Department of Electrical Engineering at the University of Southern California. The implementation was undertaken by Ethan Mandel.
